@@ -1,5 +1,5 @@
 ---
 title: Welcome to my blog
-This is now for testing.
+description: This is now for testing.
 ---
 
